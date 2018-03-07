@@ -1,0 +1,8 @@
+DaoType=S2JDBC
+DefaultResourcePath=/Seasar_Tags/src/main/resources
+DefaultRootPackage=test.seaser
+DefaultSrcPath=/Seasar_Tags/src/main/java
+ServletPath=Seasar_Tags
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
