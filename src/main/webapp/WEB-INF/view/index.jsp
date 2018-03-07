@@ -8,7 +8,7 @@
 
 <%-- ↑↑↑↑↑ ポイント ↑↑↑↑↑ --%>
 
-<title>マツコの世界</title>
+<title>マツコの世界 NEW</title>
 	<style type="text/css">
 		#jquery-sample-ajax, #jquery-sample-ajax2{
 		    margin: 10px;
