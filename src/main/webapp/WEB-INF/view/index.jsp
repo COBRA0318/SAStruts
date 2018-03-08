@@ -199,7 +199,13 @@ function change(){
 <c:set var="test2" value="<%= test %>" />
 
 ${test2}
-
+<c:set var="data" value="てすと！！" />
+<c:out value="${data}" />・・・・・EL式「 ${data} 」でアクセスで1
+<%-- <s:set name="testName" value="'testValue'"></s:set>
+<s:property value="#testName" />
+<s:set name="testIntName" value="6"></s:set>
+<s:property value="#testIntName" />
+<s: --%>
 <h1>Tags Tutorial!</h1>
 	<s:form action="/upload" method="POST">
 	<html:text property="str3"></html:text>
